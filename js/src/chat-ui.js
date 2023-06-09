@@ -1,5 +1,5 @@
 import ChatClient from './chat-client.js';
-import BotUI from 'botui';
+import BotUI from './botui.js';
 import sanitize from "./sanitizer";
 import {
   SANITIZE_USER_INPUT_FOR_DISPLAY,

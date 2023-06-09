@@ -12,8 +12,8 @@ import ChatUI from './chat-ui.js';
 import ChatFrame from './chat-frame.js';
 import { isMobileDevice } from './chat-ux-util.js';
 
-import '../node_modules/botui/build/botui.min.css';
-import '../node_modules/botui/build/botui-theme-default.css';
+import './botui.min.css';
+import './botui-theme-default.css';
 import './botui-theme-riversun.css';
 import './app.css';
 

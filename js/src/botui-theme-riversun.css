@@ -8,7 +8,7 @@
 
 .botui-container {
     font-size: 14px;
-    background-color: #d7dbe4;
+    background-color: #d7e4de;
     font-family: "Open Sans", sans-serif;
 }
 
@@ -33,7 +33,7 @@
 
 .botui-message-content.human {
     color: #f8f8f8;
-    background-color: #36415d;
+    background-color: #47d45e;
 }
 
 .botui-message-content.text {
@@ -74,13 +74,13 @@
     height: 30px;
     line-height: 1;
     border-radius: 10%;
-    border: 1px solid #36415d;
+    border: 1px solid #47d45e;
     background: #fff;
 }
 
 .botui-actions-buttons-button {
     border: 0;
-    color: #36415d;
+    color: #47d45e;
     line-height: 1;
     cursor: pointer;
     font-size: 14px;
@@ -89,7 +89,7 @@
     border-radius: 4px;
     font-family: "Open Sans", sans-serif;
     background: #ffffff;
-    border: 1px solid #36415d;
+    border: 1px solid #47d45e;
     box-shadow: 2px 3px 4px 0 rgba(0, 0, 0, 0.25);
 }
 

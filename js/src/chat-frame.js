@@ -79,7 +79,7 @@ export default class ChatFrame {
       },
       titleBar: {
         color: 'white',
-        background: '#4784d4',
+        background: '#47d45e',
         leftMargin: (this.windowParam.infoUrl) ? 40 : 10,
         height: this.windowSizeParam.titleHeight,
         fontSize: 14,
