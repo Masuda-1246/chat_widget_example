@@ -14,8 +14,8 @@
     vertical-align: middle;
     position: fixed;
     color: #fff;
-    background-color: #47d45e;
-    border-color: #47d45e;
+    background-color: #eb9c42;
+    border-color: #eb9c42;
     transition: transform 0.2s linear, opacity 0.3s;
     transform: scale(0.9);
     opacity: 0;
@@ -23,8 +23,8 @@
 
 .chatux-btn-chat:hover {
     color: #fff;
-    background-color: #02ba45;
-    border-color: #02ba45;
+    background-color: #e68619;
+    border-color: #e68619;
     transform: scale(1.0);
 
 }
