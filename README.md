@@ -14,3 +14,7 @@ cd chat_widget_example/server
 ./run.sh
 ```
 index.htmlを開くと、チャットボットが立ち上がる。
+
+## DEMO
+https://github.com/Masuda-1246/chat_widget_example/assets/96477942/0bc2592b-511a-4644-ac60-a020c7c614e5
+
